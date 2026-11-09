@@ -1,0 +1,74 @@
+{
+  "aisle_detail/aisle_detail_screen.dart": {
+    "mtime": 1793940077.4739048,
+    "seen": 1793941196.294955,
+    "ast_hash": "7eb630cb912affaa00b10de44973f766",
+    "semantic_hash": "7eb630cb912affaa00b10de44973f766"
+  },
+  "aisle_detail/temp_aisle_detail_screen.dart": {
+    "mtime": 1793940103.9343019,
+    "seen": 1793941196.294963,
+    "ast_hash": "6f11faad9c3366c1aa0672b3b6e0463c",
+    "semantic_hash": "6f11faad9c3366c1aa0672b3b6e0463c"
+  },
+  "capture_support/capture_host.dart": {
+    "mtime": 1792521904.2714489,
+    "seen": 1793941196.294966,
+    "ast_hash": "af0032e35e4c5e1158d308a487ce3139",
+    "semantic_hash": "af0032e35e4c5e1158d308a487ce3139"
+  },
+  "capture_support/font_comparison_sheet.dart": {
+    "mtime": 1792513769.027548,
+    "seen": 1793941196.2949681,
+    "ast_hash": "440d25f0492637413239098df469a6f1",
+    "semantic_hash": "440d25f0492637413239098df469a6f1"
+  },
+  "cart/cart_screen.dart": {
+    "mtime": 1792510933.443209,
+    "seen": 1793941196.294969,
+    "ast_hash": "104f8511fb14bf78a7a697270a7dfe77",
+    "semantic_hash": "104f8511fb14bf78a7a697270a7dfe77"
+  },
+  "checkout/checkout_screen.dart": {
+    "mtime": 1792599607.7025034,
+    "seen": 1793941196.294971,
+    "ast_hash": "b1efa2fe3994f6974ce5515f6daefd94",
+    "semantic_hash": "b1efa2fe3994f6974ce5515f6daefd94"
+  },
+  "dashboard/dashboard_bloc.dart": {
+    "mtime": 1792600417.6896532,
+    "seen": 1793941196.294972,
+    "ast_hash": "57a467fa92b9173968c46e8d65bdd65b",
+    "semantic_hash": "57a467fa92b9173968c46e8d65bdd65b"
+  },
+  "dashboard/dashboard_screen.dart": {
+    "mtime": 1793937246.877704,
+    "seen": 1793941196.2949739,
+    "ast_hash": "cd9980a541964324806f1aca2151b490",
+    "semantic_hash": "cd9980a541964324806f1aca2151b490"
+  },
+  "product/product_screen.dart": {
+    "mtime": 1792599607.7010732,
+    "seen": 1793941196.294975,
+    "ast_hash": "143d7e464375df81b286eb70d9f3f4d1",
+    "semantic_hash": "143d7e464375df81b286eb70d9f3f4d1"
+  },
+  "shop_by_aisle/shop_by_aisle_screen.dart": {
+    "mtime": 1792599607.7031028,
+    "seen": 1793941196.294976,
+    "ast_hash": "a379afd08fdf87d21a1c9bb00eaae149",
+    "semantic_hash": "a379afd08fdf87d21a1c9bb00eaae149"
+  },
+  "store/store_screen.dart": {
+    "mtime": 1792599607.7078025,
+    "seen": 1793941196.2949781,
+    "ast_hash": "bfa19e0cfaaeada92fdac147e515ff7c",
+    "semantic_hash": "bfa19e0cfaaeada92fdac147e515ff7c"
+  },
+  "store_filter_by_service/store_filter_by_service_screen.dart": {
+    "mtime": 1792599607.7065294,
+    "seen": 1793941196.29498,
+    "ast_hash": "1acbb951091f105c71922daad8bf2b3b",
+    "semantic_hash": "1acbb951091f105c71922daad8bf2b3b"
+  }
+}

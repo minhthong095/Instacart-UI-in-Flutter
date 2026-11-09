@@ -1,0 +1,228 @@
+{
+    "shopId": "2415",
+    "slug": "/store/fairway/storefront",
+    "categories": [
+        {
+            "title": "Fresh vegetables",
+            "productCategoryIds": [
+                439
+            ]
+        },
+        {
+            "title": "Cola",
+            "productCategoryIds": [
+                287
+            ]
+        },
+        {
+            "title": "Bath tissue",
+            "productCategoryIds": [
+                5792
+            ]
+        },
+        {
+            "title": "Fresh fruit",
+            "productCategoryIds": [
+                318
+            ]
+        },
+        {
+            "title": "Eggs",
+            "productCategoryIds": [
+                1342
+            ]
+        },
+        {
+            "title": "Deli meats",
+            "productCategoryIds": [
+                1283
+            ]
+        },
+        {
+            "title": "Sparkling water",
+            "productCategoryIds": [
+                314
+            ]
+        },
+        {
+            "title": "Fruit juice",
+            "productCategoryIds": [
+                257
+            ]
+        },
+        {
+            "title": "Baking and cooking",
+            "productCategoryIds": [
+                845
+            ]
+        },
+        {
+            "title": "Cheese",
+            "productCategoryIds": [
+                1329
+            ]
+        },
+        {
+            "title": "Snacks",
+            "productCategoryIds": [
+                1159
+            ]
+        },
+        {
+            "title": "Beef",
+            "productCategoryIds": [
+                703
+            ]
+        },
+        {
+            "title": "Frozen snacks",
+            "productCategoryIds": [
+                628
+            ]
+        },
+        {
+            "title": "Poultry",
+            "productCategoryIds": [
+                758
+            ]
+        },
+        {
+            "title": "Condiments",
+            "productCategoryIds": [
+                1043
+            ]
+        },
+        {
+            "title": "Milk",
+            "productCategoryIds": [
+                1346
+            ]
+        },
+        {
+            "title": "Breakfast",
+            "productCategoryIds": [
+                964
+            ]
+        },
+        {
+            "title": "Yogurt",
+            "productCategoryIds": [
+                1355
+            ]
+        },
+        {
+            "title": "Canned goods",
+            "productCategoryIds": [
+                974
+            ]
+        },
+        {
+            "title": "Bread",
+            "productCategoryIds": [
+                1301
+            ]
+        },
+        {
+            "title": "Ready meals",
+            "productCategoryIds": [
+                4231
+            ]
+        },
+        {
+            "title": "Frozen desserts",
+            "productCategoryIds": [
+                648
+            ]
+        },
+        {
+            "title": "Sausages",
+            "productCategoryIds": [
+                821
+            ]
+        },
+        {
+            "title": "Breakfast bakery",
+            "productCategoryIds": [
+                3548
+            ]
+        },
+        {
+            "title": "Pre cooked meats",
+            "productCategoryIds": [
+                4242
+            ]
+        },
+        {
+            "title": "Tortillas",
+            "productCategoryIds": [
+                1321
+            ]
+        },
+        {
+            "title": "Fish",
+            "productCategoryIds": [
+                782
+            ]
+        },
+        {
+            "title": "Frozen vegetables",
+            "productCategoryIds": [
+                674
+            ]
+        },
+        {
+            "title": "Boxed meals and sides",
+            "productCategoryIds": [
+                957
+            ]
+        },
+        {
+            "title": "Bottled tea",
+            "productCategoryIds": [
+                294
+            ]
+        },
+        {
+            "title": "Coconut water",
+            "productCategoryIds": [
+                313
+            ]
+        },
+        {
+            "title": "Coffee drinks",
+            "productCategoryIds": [
+                245
+            ]
+        },
+        {
+            "title": "Olives dips and spreads",
+            "productCategoryIds": [
+                4253
+            ]
+        },
+        {
+            "title": "All purpose cleaners",
+            "productCategoryIds": [
+                4090
+            ]
+        },
+        {
+            "title": "Coffee creamers",
+            "productCategoryIds": [
+                1336
+            ]
+        },
+        {
+            "title": "Ales",
+            "productCategoryIds": [
+                4
+            ]
+        },
+        {
+            "title": "Nut butters",
+            "productCategoryIds": [
+                1078
+            ]
+        }
+    ]
+}

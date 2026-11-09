@@ -1,0 +1,24 @@
+{
+    "id": "items_17550-25320157",
+    "variants": null,
+    "images": [],
+    "sections": [
+        {
+            "bodyString": "CENTO ITALIAN SEASONING 1.17 OZ",
+            "headerString": "Details"
+        },
+        {
+            "bodyString": "Basil, Oregano, Crushed Red Pepper, Rosemary, Thyme, Parsley, Garlic, Marjoram.",
+            "headerString": "Ingredients"
+        }
+    ],
+    "name": "Cento Italian Sea Salt",
+    "isNutritionAvailable": false,
+    "proudctSlug": "25320157-cento-blended-italian-seasoning-1-17-oz",
+    "pricePerUnit": null,
+    "fullPrice": "$2.26",
+    "pricingUnit": "1.17 oz",
+    "price": "$2.03",
+    "isLoyaltyProgramAvailbale": false,
+    "offerLabelString": "10% off"
+}
